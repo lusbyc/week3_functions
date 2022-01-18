@@ -1,5 +1,3 @@
-# week3_homework_functions.py
-
 # Exercise Lab 1: Printing Multiplication Tables
 
 def mulitiplication_table(number):
